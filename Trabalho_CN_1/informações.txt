@@ -1,0 +1,3 @@
+Informações adicionais: 
+
+Para executar os arquivos de implementação, deve-se modificar o fi(x) para a função desejada. Assim como os dados iniciais como raiz, intervalo (para os que houverem) e aproximação inicial (para os que houverem). 
